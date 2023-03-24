@@ -1,4 +1,0 @@
-#HTMLファイルでPHPを動かす
- <FilesMatch "\.html$">
-AddHandler php7-script .html
- </FilesMatch>
